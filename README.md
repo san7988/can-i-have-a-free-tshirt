@@ -30,3 +30,6 @@ Another year, another t-shirt! I've written quite a few open source applications
 
 ## Just a final PR
 The last PR until next time!
+
+## Making an effort Nonetheless
+A free T-shirt will be even a greater source of inspiration for me to make sound contribution to open source.
